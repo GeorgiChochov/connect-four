@@ -1,0 +1,3 @@
+package connect
+
+class PvCGame {}
